@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import os, sys
-print '\x1b[1;33mSudah punya ID dan Password nya!'
+print '\x1b[1;33mSudah punya ID dan Password nya'
 print '\x1b[1;32mScript ini tidak gratis sekarang'
 print '\x1b[1;32mSilahkan Login '
 import os.sys
