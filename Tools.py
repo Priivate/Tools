@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
-import os, sys
+import os.sys
 print '\x1b[1;33mSudah punya ID dan Password nya'
 print '\x1b[1;32mScript ini tidak gratis sekarang'
 print '\x1b[1;32mSilahkan Login '
+print '\x1b[1;32mKalau blom punya ID dan Password nya minta ke admin'
 import os.sys
 
 def wa():
